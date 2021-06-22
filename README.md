@@ -1,6 +1,8 @@
 Haskell FFI Bindings to CUDA
 ============================
 
+This fork builds Cuda on NixOS with an NVidia Titan XP graphics card.
+
 [![Travis build status](https://img.shields.io/travis/tmcdonell/cuda/master.svg?label=linux)](https://travis-ci.org/tmcdonell/cuda)
 [![AppVeyor build status](https://img.shields.io/appveyor/ci/tmcdonell/cuda/master.svg?label=windows)](https://ci.appveyor.com/project/tmcdonell/cuda)
 [![Stackage LTS](https://stackage.org/package/cuda/badge/lts)](https://stackage.org/lts/package/cuda)
